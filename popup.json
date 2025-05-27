@@ -1,0 +1,16 @@
+{
+    "enabled": true,
+    "title": "Special Offer!",
+    "text": "Check out our new game with amazing features!",
+    "icon": "https://your-server.com/promo-icon.png",
+    "link": "https://www.amazon.com/dp/NEW_GAME_ID",
+    "buttonText": "Learn More",
+    "delay": 3,
+    "showCount": 1,
+    "frequency": "once",
+    "conditions": {
+        "minAppVersion": "1.0.0",
+        "maxShowCount": 1,
+        "showAfterDays": 0
+    }
+} 

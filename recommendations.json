@@ -1,0 +1,46 @@
+{
+    "recommendations": [
+        {
+            "id": "rec_1",
+            "title": "Fun Video Call",
+            "description": "Start a fun video call with our AI character!",
+            "imageUrl": "assets/funbot.png",
+            "deepLink": "fakecall://start/fun",
+            "type": "VIDEO",
+            "score": 1.0
+        },
+        {
+            "id": "rec_2",
+            "title": "Professional Call",
+            "description": "Simulate a professional video conference call",
+            "imageUrl": "assets/gray.png",
+            "deepLink": "fakecall://start/pro",
+            "type": "VIDEO",
+            "score": 0.9
+        },
+        {
+            "id": "rec_3",
+            "title": "New Features",
+            "description": "Check out our latest features and updates!",
+            "imageUrl": "assets/banner1.png",
+            "deepLink": "fakecall://features",
+            "type": "CONTENT",
+            "score": 0.8
+        },
+        {
+            "id": "rec_4",
+            "title": "Premium Version",
+            "description": "Upgrade to premium for more features!",
+            "imageUrl": "assets/banner2.png",
+            "deepLink": "https://www.amazon.com/dp/PREMIUM_VERSION_ID",
+            "type": "APP",
+            "score": 0.7
+        }
+    ],
+    "settings": {
+        "maxRecommendations": 10,
+        "updateInterval": 3600000,
+        "minScore": 0.5,
+        "types": ["VIDEO", "APP", "CONTENT"]
+    }
+} 
