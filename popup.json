@@ -1,9 +1,9 @@
 {
   "enabled": true,
   "delay": 2,
-  "icon": "https://cdn.yourdomain.com/popup/popup-icon.png",
+  "icon": "https://raw.githubusercontent.com/DivProGamez/SprnkCall/refs/heads/main/popup.png",
   "title": "عرض خاص!",
   "text": "جرب لعبتنا الجديدة الآن واحصل على مكافأة.",
   "buttonText": "جرب الآن",
-  "link": "https://yourdomain.com/safe-link"
+  "link": "https://www.amazon.com/Beat-Survival-Craft-Challenge-Squid/dp/B085H9RMGZ"
 } 
