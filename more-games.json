@@ -4,10 +4,10 @@
             "id": "game1",
             "title": "لعبة المكالمات المتقدمة",
             "description": "استمتع بمكالمات فيديو عالية الجودة مع أصدقائك",
-            "icon": "https://cdn.yourdomain.com/games/game-icon.png",
+            "icon": "https://raw.githubusercontent.com/DivProGamez/SprnkCall/refs/heads/main/icongame1.png",
             "screenshots": [
-                "https://cdn.yourdomain.com/games/game-1.png",
-                "https://cdn.yourdomain.com/games/game-2.png"
+                "https://raw.githubusercontent.com/DivProGamez/SprnkCall/refs/heads/main/screengame1.png",
+                "https://raw.githubusercontent.com/DivProGamez/SprnkCall/refs/heads/main/screengame1b.png"
             ],
             "url": "https://www.amazon.com/Beat-Run-Game-3d-2025/dp/B0D66N54N6",
             "rating": 4.5,
@@ -29,10 +29,10 @@
             "id": "game2",
             "title": "لعبة الدردشة المباشرة",
             "description": "تواصل مع أصدقائك عبر الدردشة المباشرة",
-            "icon": "https://cdn.yourdomain.com/games/game-icon.png",
+            "icon": "https://raw.githubusercontent.com/DivProGamez/SprnkCall/refs/heads/main/icongame2.png",
             "screenshots": [
-                "https://cdn.yourdomain.com/games/game-1.png",
-                "https://cdn.yourdomain.com/games/game-2.png"
+                "https://raw.githubusercontent.com/DivProGamez/SprnkCall/refs/heads/main/screengame2.png",
+                "https://raw.githubusercontent.com/DivProGamez/SprnkCall/refs/heads/main/screengame2b.png"
             ],
             "url": "https://www.amazon.com/Beat-Run-Game-3d-2025/dp/B0D66N54N6",
             "rating": 4.3,
@@ -53,10 +53,10 @@
             "id": "game3",
             "title": "لعبة الاجتماعات الافتراضية",
             "description": "قم بإدارة اجتماعاتك الافتراضية بكل سهولة",
-            "icon": "https://cdn.yourdomain.com/games/game-icon.png",
+            "icon": "https://raw.githubusercontent.com/DivProGamez/SprnkCall/refs/heads/main/icongame3.png",
             "screenshots": [
-                "https://cdn.yourdomain.com/games/game-1.png",
-                "https://cdn.yourdomain.com/games/game-2.png"
+                "https://raw.githubusercontent.com/DivProGamez/SprnkCall/refs/heads/main/screengame3.png",
+                "https://raw.githubusercontent.com/DivProGamez/SprnkCall/refs/heads/main/screengame3b.png"
             ],
             "url": "https://www.amazon.com/Beat-Run-Game-3d-2025/dp/B0D66N54N6",
             "rating": 4.7,
