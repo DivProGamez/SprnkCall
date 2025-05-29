@@ -1,0 +1,9 @@
+{
+  "enabled": true,
+  "delay": 2,
+  "icon": "https://cdn.yourdomain.com/popup/popup-icon.png",
+  "title": "عرض خاص!",
+  "text": "جرب لعبتنا الجديدة الآن واحصل على مكافأة.",
+  "buttonText": "جرب الآن",
+  "link": "https://yourdomain.com/safe-link"
+} 
